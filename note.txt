@@ -1,0 +1,8 @@
+/*-------What I learnt-------- */
+
+The meaning of "margin: auto;"
+- The auto Value
+You can set the margin property to auto to horizontally center the element within its container. The element will then take up the specified width, and the remaining space will be split equally between the left and right margins.
+
+-So basically margin: auto; means it will horizontally center the element within its container.
+              margin: 0 auto; means it will vertically center he element within its container.
